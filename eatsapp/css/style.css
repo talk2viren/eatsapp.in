@@ -1,0 +1,575 @@
+.back123{
+	background: url(../images/eating.jpg) repeat 0px 0px;
+}
+#height1{
+	margin-top: 10em;
+}
+
+#color1{
+	color: #d32f2f;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	padding: 0px 0px 10px 10px;
+	border-radius: 5px 0px 0px 5px;
+}
+#color2{
+	color: #4285f4;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	padding: 0px 10px 10px 0px;
+	border-radius: 0px 5px 5px 0px;
+}
+
+#input_container {
+ position:relative; 
+ padding:0; 
+ margin:0; 
+}
+#input { 
+	height:20px; 
+	margin:10px;
+	padding: 16px;
+	border-radius: 5px; 
+}
+    
+#input_img { 
+	position: absolute;
+	bottom: 8px;
+	left: 291px;
+	width: 101px;
+	height: 34px;
+	margin: 3px 0px;
+}
+
+#margin1{
+	margin-left: 0em;
+}
+
+.size{
+	height: 150px;
+	width: 150px;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 15px;
+    font-size: 15px;
+}
+
+.height1{
+	height: 15em;
+}
+
+#fontsize{
+	font-size: 20px;
+	color: white;
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+.black{
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  position: absolute;
+}
+
+.black1{
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  position: relatvie;
+  padding: 5px;
+}
+
+.screen{
+	width: 850px;
+	height: 384px;
+	border: 0;
+	margin-left: -1em;
+}
+
+.liststyle{
+	list-style-type: none;
+	font-size: 14px;
+}
+.liststyle1{
+	padding-bottom: 15px;
+}
+
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
+.navbar-brand{
+	color: white !important;
+}
+
+.navbar-nav>li>a {
+	color: white !important;
+}
+
+.position{
+	color: white;
+}
+.position1 {
+	    color: white;
+	    text-align: center;
+	    margin-top: 2.3em;
+	    font-size: 90px;
+	}
+
+.position2{
+	position: relative;
+	margin-top: -18em;
+	color: white;
+	text-align: center;
+}
+
+.container1{
+	margin-top: 5em;
+}
+
+#center{
+	color: #11B674;
+}
+
+.center{
+	text-align: center;
+}
+
+.right{
+	text-align: right;
+}
+
+#justify{
+	text-align: justify;
+}
+
+
+@media(min-width:  220px) {
+	.back123{
+	background: url(../images/eating.jpg) repeat 0px 0px;
+}
+
+.right1{
+	float: left;
+}
+
+	.position1 {
+    color: white;
+    text-align: center;
+    margin-top: 2.3em;
+    font-size: 80px;
+}
+#input { 
+	height:20px; 
+	margin:10px;
+	padding: 16px;
+	border-radius: 5px; 
+}
+    
+#input_img { 
+	position: absolute;
+	bottom: 8px;
+	left: 115px;
+	width: 101px;
+	height: 34px;
+	margin: 3px 0px;
+}
+
+
+}
+
+@media(min-width: 320px) {
+
+.right1{
+	float: left;
+}
+
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 15px;
+    font-size: 13px;
+}
+#margin1{
+	margin-left: 0em;
+}
+
+.height1{
+	height: 10em;
+}
+
+#fontsize{
+	font-size: 20px;
+	color: white;
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+
+.back123{
+	background: url(../images/eating.jpg) repeat 0px 0px;
+}
+
+#input { 
+	height:20px; 
+	margin:10px;
+	padding: 16px;
+	border-radius: 5px;
+}
+    
+#input_img { 
+	position: absolute;
+	bottom: 8px;
+	left: 106px;
+	width: 101px;
+	height: 34px;
+	margin: 3px 0px;
+}
+
+
+.position{
+	color: white;
+}
+
+.position1 {
+	    color: white;
+	    text-align: center;
+	    margin-top: 2.3	em;
+	    font-size: 75px;
+	}
+
+.position2{
+	position: relative;
+	margin-top: -14em;
+	color: white;
+	text-align: center;
+}
+
+
+
+#fontsize{
+	font-size: 18px;
+	color: white;
+	padding: 1em;
+}
+
+}
+
+@media(min-width: 768px) {
+
+.right1{
+	float: right;
+}
+
+#margin1{
+	margin-left: 0em;
+}
+
+#input_container {
+ position:relative; 
+ padding:0; 
+ margin:0; 
+}
+#input { 
+	height:20px; 
+	margin:10px;
+	padding: 16px;
+	border-radius: 5px; 
+}
+    
+#input_img { 
+	position: absolute;
+	bottom: 8px;
+	left: 114px;
+	width: 101px;
+	height: 34px;
+	margin: 3px 0px;
+}
+
+#lineheight{
+	height: 8em;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 8px;
+    font-size: 12px;
+}
+.back123{
+	background: url(../images/eating.jpg) repeat 0px 0px;
+}
+
+.position{
+	color: white;
+}
+
+.position1 {
+	    color: white;
+	    text-align: center;
+	    margin-top: 3.3em;
+	    font-size: 90px;
+	}
+
+.position2{
+	position: relative;
+	margin-top: -20em;
+	color: white;
+	text-align: center;
+}
+
+}
+
+
+@media(min-width: 800px) {
+
+.right1{
+	float: right;
+}
+
+#margin1{
+	margin-left: 0em;
+}
+
+#input_container {
+ position:relative; 
+ padding:0; 
+ margin:0; 
+}
+#input { 
+	height:20px; 
+	margin:10px;
+	padding: 16px;
+	border-radius: 5px; 
+}
+    
+#input_img { 
+	position: absolute;
+	bottom: 8px;
+	left: 114px;
+	width: 101px;
+	height: 34px;
+	margin: 3px 0px;
+}
+
+#lineheight{
+	height: 8em;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 8px;
+    font-size: 12px;
+}
+.back123{
+	background: url(../images/eating.jpg) repeat 0px 0px;
+}
+
+.position{
+	color: white;
+}
+
+.position1 {
+	    color: white;
+	    text-align: center;
+	    margin-top: 2.85em;
+	    font-size: 100px;
+	}
+
+.position2{
+	position: relative;
+	margin-top: -20em;
+	color: white;
+	text-align: center;
+}
+
+}
+
+@media(min-width: 1200px) {
+
+	.right1{
+	float: right;
+}
+
+#margin1{
+	margin-left: 0em;
+}
+
+#input_container {
+ position:relative; 
+ padding:0; 
+ margin:0; 
+}
+#input { 
+	height:20px; 
+	margin:10px;
+	padding: 16px;
+	border-radius: 5px; 
+}
+    
+#input_img { 
+	position: absolute;
+	bottom: 8px; 
+	left: 114px;
+	width: 101px;
+	height: 34px;
+	margin: 3px 0px;
+}
+
+#lineheight{
+	height: 8em;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 8px;
+    font-size: 12px;
+}
+.back123{
+	background: url(../images/eating.jpg) repeat 0px 0px;
+}
+
+.position{
+	color: white;
+}
+
+.position1 {
+	    color: white;
+	    text-align: center;
+	    margin-top: 2.2em;
+	    font-size: 125px;
+	}
+
+.position2{
+	position: relative;
+	margin-top: -20em;
+	color: white;
+	text-align: center;
+}
+
+}
+
+@media(max-width: 480px){
+	.screen{	
+	width: 260px;
+	height: 270px;
+	border: 0;
+	margin-left: -1em;
+}
+#margin1{
+	margin-left: 0em;
+}
+.right1{
+	float: left;
+}
+}
+@media(max-width: 550px){
+	
+#margin1{
+	margin-left: 0em;
+}
+.right1{
+	float: left;
+}
+}
+
+
+@media(min-width: 1440px){
+	.back123{
+	background: url(../images/eating.jpg) repeat 0px 0px;
+}
+
+.right1{
+	float: right;
+}
+
+#input_container {
+ position:relative; 
+ padding:0; 
+ margin:0; 
+}
+#input { 
+	height:20px; 
+	margin:10px;
+	padding: 16px;
+	border-radius: 5px; 
+}
+    
+#input_img { 
+	position: absolute;
+	bottom: 8px;
+	left: 114px;
+	width: 101px;
+	height: 34px;
+	margin: 3px 0px;
+}
+
+
+#response{
+	border: 1px solid white;
+	border-radius: 0px 4px 4px 0px;
+	margin: 3px 0px 0px -53px;
+}
+
+#lineheight{
+	height: 13em;
+}
+
+.black{
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  position: absolute;
+  padding: 5px;
+}
+
+.marginbottom{
+	margin-top: 10px;
+	width: 85%;
+}
+
+
+.black1{
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  position: relatvie;
+  padding: 5px;
+}
+
+#margin1{
+	margin-left: 0em;
+}
+	.position{
+		color: white;
+	}
+
+	.position1 {
+	    color: white;
+	    text-align: center;
+	    margin-top: 1.95em;
+	    font-size: 150px;
+	}
+
+	.position2{
+		position: relative;
+		margin-top: -18em;
+		color: white;
+		text-align: center;
+	}
+	.screen{	
+	width: 850px;
+	height: 516px;
+	border: 0;
+	margin-left: -1em;
+}
